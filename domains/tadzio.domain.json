@@ -1,0 +1,16 @@
+{
+    "description": "Personal Website",
+    "domain": "is-cool.dev",
+    "subdomain": "tadzio",
+
+    "owner": {
+        "repo": "https://github.com/TadzioRadomski/register",
+        "email": "tadeuszradomski63@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "tadzioradomski.github.io",
+    },
+
+    "proxied": false
+}
